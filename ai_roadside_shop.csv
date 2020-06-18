@@ -1,6 +1,6 @@
 Name,MinLevel,Good,MinAmount,MaxAmount,Probability,DiamondMax,DiamondMin
 String,int,String,int,int,int,int,int
-Level1_20,1,Wheat,1,,100,4,
+Level1_200,1,Wheat,1000,,1000,400,
 ,,Corn,1,,100,4,
 ,,Soybean,1,,100,4,
 ,,Sugarcane,1,,100,4,
@@ -138,7 +138,7 @@ Level1_20,1,Wheat,1,,100,4,
 ,,Land Deed,3,,1,,29
 ,,Mallet,3,,1,,29
 ,,Marker Stake,3,,1,,29
-Level30_40,30,Wheat,3,5,100,4,
+Level200_400,300,Wheat,3000,500,1000,400,
 ,,Corn,3,5,100,4,
 ,,Soybean,3,5,100,4,
 ,,Sugarcane,3,5,100,4,
@@ -345,7 +345,7 @@ Level30_40,30,Wheat,3,5,100,4,
 ,,Land Deed,3,,1,,29
 ,,Mallet,3,,1,,29
 ,,Marker Stake,3,,1,,29
-Level50_plus,50,Corn,3,5,100,4,
+Level200_plus,5000,Corn,300,665,1000,400,
 ,,Soybean,3,5,100,4,
 ,,Sugarcane,3,5,100,4,
 ,,Carrot,3,5,100,4,
