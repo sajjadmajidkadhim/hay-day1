@@ -1,6 +1,6 @@
 Name,MinLevel,Good,MinAmount,MaxAmount,Probability,DiamondMax,DiamondMin
 String,int,String,int,int,int,int,int
-Level1_100,1,Wheat,1,,100,4,
+Level1_1000,1,Wheat,1,,10000,4,
 ,,Corn,1,,100,4,
 ,,Soybean,1,,100,4,
 ,,Sugarcane,1,,100,4,
